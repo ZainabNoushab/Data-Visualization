@@ -15,7 +15,16 @@ All visualizations are stored in the `figures/` folder. This project reflects no
 
 ## 📂 Folder Structure
 
- ``` Semester_Break_Insights/ ├── Semester_Break_Insights.py ├── README.md └── figures/ ├── learning_hours_over_days.png ├── namaz_offered.png ├── activity_proportions.png └── sleep_vs_mood.png ``` 
+ ```
+ Semester_Break_Insights/
+├── Semester_Break_Insights.py
+├── README.md
+└── figures/
+    ├── learning_hours_over_days.png
+    ├── namaz_offered.png
+    ├── activity_proportions.png
+    └── sleep_vs_mood.png
+``` 
 
 ---
 ## 🛠️ Tools Used
