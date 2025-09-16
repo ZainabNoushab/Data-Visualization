@@ -1,6 +1,6 @@
 # Nike Sales Dashboard – Power BI
 
-📊 An interactive Power BI dashboard analyzing Nike shoe sales, operating profit, and customer insights.  
+An interactive Power BI dashboard analyzing Nike shoe sales, operating profit, and customer insights.  
 
 This project visualizes sales and profitability performance across different regions, products, and timeframes while also incorporating customer reviews and ratings for better business insights.
 
@@ -23,7 +23,7 @@ This project visualizes sales and profitability performance across different reg
 
 ### 🔹 Screenshots  
 
-![Dashboard Overview](Screenshots)  
+[Dashboard Overview](Screenshots)  
 
 ---
 
@@ -38,7 +38,7 @@ This project visualizes sales and profitability performance across different reg
 ### 🔹 How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/PowerBI-Projects.git
+   git clone https://github.com/ZainabNoushab/Data-Visualization.git
 2. Navigate to the project folder
 
 3. Open Nike_Sales_Dashboard.pbix in Power BI Desktop
@@ -64,6 +64,7 @@ Implement forecasting for predictive insights
 ---
 
 ✨ This project is for learning and portfolio purposes only. It is not affiliated with Nike.
+
 
 
 
