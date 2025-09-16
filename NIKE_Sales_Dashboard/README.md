@@ -22,7 +22,6 @@ This project visualizes sales and profitability performance across different reg
 ---
 
 ### 🔹 Screenshots  
-*(Replace with your own screenshots in `docs/screenshots/`)*  
 
 ![Dashboard Overview](Screenshots)  
 
@@ -65,6 +64,7 @@ Implement forecasting for predictive insights
 ---
 
 ✨ This project is for learning and portfolio purposes only. It is not affiliated with Nike.
+
 
 
 
