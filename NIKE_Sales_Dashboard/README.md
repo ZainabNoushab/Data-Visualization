@@ -1,34 +1,23 @@
-# 📊 Nike Sales Dashboard  
+# Nike Sales Dashboard – Power BI
 
-### 🔹 Overview  
-This Power BI dashboard provides a detailed analysis of **Nike’s sales performance**. It highlights revenue trends, top-selling products, regional distribution, and profit insights to demonstrate how businesses can leverage data visualization for decision-making.  
+📊 An interactive Power BI dashboard analyzing Nike shoe sales, operating profit, and customer insights.  
 
----
-
-### 🔹 Dataset  
-- **Source:** Sample dataset (non-official Nike data, created for educational purposes)  
-- **Size:** ~50,000 rows of sales transactions  
-- **Key fields:**  
-  - Date of Sale  
-  - Region / Country  
-  - Product Category (Shoes, Apparel, Accessories)  
-  - Revenue & Profit  
-  - Quantity Sold  
+This project visualizes sales and profitability performance across different regions, products, and timeframes while also incorporating customer reviews and ratings for better business insights.
 
 ---
 
 ### 🔹 Tools Used  
-- Power BI – dashboard design & visualization  
-- Excel / CSV – dataset handling  
+- Power BI – dashboard design & visualization
 
 ---
 
 ### 🔹 Dashboard Highlights  
-- 📈 Revenue trend over time with seasonal patterns  
-- 🏆 Top-selling Nike products & categories  
-- 🌍 Regional sales performance comparison  
-- 💰 Profit margin analysis by product line  
-- 📊 KPIs: Total Sales, Avg. Order Value, Profit %  
+- **Sales Overview**: Total sales revenue and operating profit analysis.  
+- **Regional Performance**: Operating margin breakdown by U.S. regions (Midwest, Northeast, South, Southeast, West).  
+- **Product Analysis**: Visual display of different Nike shoe models with key performance indicators.  
+- **Yearly Trends**: Sales vs. operating profit comparison over time.  
+- **Customer Insights**: Ratings and reviews summary with average star rating.  
+- **Interactive Navigation**: Multi-page dashboard with *Home*, *Insights*, and *Details* views.  
 
 ---
 
@@ -36,6 +25,14 @@ This Power BI dashboard provides a detailed analysis of **Nike’s sales perform
 *(Replace with your own screenshots in `docs/screenshots/`)*  
 
 ![Dashboard Overview](Screenshots)  
+
+---
+
+## 📈 Key Insights
+- Midwest region contributed the highest operating margin.  
+- Operating profit reached **313K+** with **11K sales revenue**.  
+- Average customer rating: **3 stars** (with 2 total reviews).  
+- Highlight product: *Jordan "Why Not?" Zer0.2 SE PF* showcased as a case study in profitability and sales.  
 
 ---
 
@@ -49,6 +46,8 @@ This Power BI dashboard provides a detailed analysis of **Nike’s sales perform
 
 4. Explore the dashboard interactively
 
+---
+
 ### 🔹 Future Improvements
 
 Add drill-through for customer segmentation
@@ -57,14 +56,15 @@ Connect to live sales data (SQL/Google Sheets)
 
 Implement forecasting for predictive insights
 
+---
+
 ### 🔹 Author
 
 👩‍💻 Zainab Noushab
 
-LinkedIn
-
-GitHub
+---
 
 ✨ This project is for learning and portfolio purposes only. It is not affiliated with Nike.
+
 
 
