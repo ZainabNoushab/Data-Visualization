@@ -1,6 +1,4 @@
-# Create README.md for Nike Sales Dashboard
-
-readme_content = """# 📊 Nike Sales Dashboard  
+# 📊 Nike Sales Dashboard  
 
 ### 🔹 Overview  
 This Power BI dashboard provides a detailed analysis of **Nike’s sales performance**. It highlights revenue trends, top-selling products, regional distribution, and profit insights to demonstrate how businesses can leverage data visualization for decision-making.  
@@ -68,4 +66,3 @@ LinkedIn
 GitHub
 
 ✨ This project is for learning and portfolio purposes only. It is not affiliated with Nike.
-"""
