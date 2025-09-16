@@ -35,7 +35,7 @@ This Power BI dashboard provides a detailed analysis of **Nike’s sales perform
 ### 🔹 Screenshots  
 *(Replace with your own screenshots in `docs/screenshots/`)*  
 
-![Dashboard Overview](docs/screenshots/nike_dashboard.png)  
+![Dashboard Overview](screenshots.png)  
 
 ---
 
@@ -66,3 +66,4 @@ LinkedIn
 GitHub
 
 ✨ This project is for learning and portfolio purposes only. It is not affiliated with Nike.
+
